@@ -1,6 +1,11 @@
 # sample-mern-app
 Basic MongoDB Express React Node app
 
+React - front-end framework
+Node - environment that allows to write JS for backend
+Express - web application framework and handles HTTP requests
+MongoDB - NoSQL database
+
 ## Developing a MERN app
 
 1. `npm init -y`
